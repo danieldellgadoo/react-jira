@@ -24,7 +24,7 @@ export const Sidebar = styled.div`
 
 export const ProjectInfo = styled.div`
   display: flex;
-  padding: 24px 4px;
+  padding: 25px 4px;
 `;
 
 export const ProjectTexts = styled.div`
