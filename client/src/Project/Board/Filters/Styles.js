@@ -43,7 +43,7 @@ export const StyledButton = styled(Button)`
 export const ClearAll = styled.div`
   height: 32px;
   line-height: 32px;
-  margin-left: 15px;
+  margin-left: 16px;
   padding-left: 12px;
   border-left: 1px solid ${color.borderLightest};
   color: ${color.textDark};
