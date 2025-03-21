@@ -37,7 +37,7 @@ export const StyledAvatar = styled(Avatar)`
 `;
 
 export const StyledButton = styled(Button)`
-  margin-left: 6px;
+  margin-left: 7px;
 `;
 
 export const ClearAll = styled.div`
